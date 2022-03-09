@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Ekaterina CV</title>
+</head>
+<body>
+  <h1>Екатерина Вафиади</h1>
+  <p><em>Я ленивый <strong>долбоеб</strong>, у которого ничено не получется</em></p>
+  <p>Я люблю играть в игры</p>
+  <hr>
+  <h2> Мои социальные сети </h2>
+  <ol type="A">
+    <li><a href="https://vk.com/agathokako_logical" tardet="_blank" ВК</a></li>
+    <li>Инстаграмм</li>
+  </ol>
+</body>
+</html>
+  
